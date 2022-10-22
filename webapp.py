@@ -44,8 +44,8 @@ def check_password():
 
 
 if check_password():
-    st.write("Here goes your normal Streamlit app...")
-    st.button("Click me")
+    # st.write("Here goes your normal Streamlit app...")
+    # st.button("Click me")
     st.write("""
     # Song Popularity Predictor
     ## This app predicts a song's popularity rating and is a tool to discover hidden musical talent!
